@@ -1,0 +1,53 @@
+.container {
+    margin-top: 25px;
+}
+
+textarea {
+    min-height: 200px;
+    height: 200px;
+}
+
+.email-div {
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-left: 8px;
+    padding-bottom: 0px;
+    line-height: 5px;
+    margin-top: 5px;
+}
+
+.email-div:hover {
+    cursor: pointer;
+}
+
+.email-div-read {
+    background-color: lightgrey;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-left: 8px;
+    padding-bottom: 0px;
+    line-height: 5px;
+    margin-top: 5px;
+}
+
+.email-div-read:hover {
+    cursor: pointer;
+}
+
+.email-btn {
+    margin-right: 4px;
+}
+
+.compose-submit-btn {
+    margin-top: 15px;
+}
+
+.truncate {
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
