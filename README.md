@@ -6,4 +6,4 @@ Built with Python, Django, Javascript, and Bootstrap 4
 
 # Demo
 
-TODO
+[![Mail Demo](demo/maildemo.png)](https://www.youtube.com/watch?v=U8h9i-AcDxs)
